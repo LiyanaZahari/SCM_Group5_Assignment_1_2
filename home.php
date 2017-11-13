@@ -4,7 +4,7 @@
 ?>	
 <html lang = "eng">
 	<head>
-		<title>Library System</title>
+		<title>	UMP LIBRARY SYSTEM</title>
 		<meta charset = "utf-8" />
 		<meta name = "viewport" content = "width=device-width, initial-scale=1" />
 		<link rel = "stylesheet" type = "text/css" href = "css/bootstrap.css" />
@@ -14,7 +14,7 @@
 			<div class = "container-fluid">
 				<div class = "navbar-header">
 					<img src = "images/logo.png" width = "50px" height = "50px" />
-					<h4 class = "navbar-text navbar-right">Library System</h4>
+					<h4 class = "navbar-text navbar-right">UMP Library System</h4>
 				</div>
 			</div>
 		</nav>
